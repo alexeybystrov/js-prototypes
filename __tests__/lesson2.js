@@ -1,4 +1,4 @@
-import { render, parse } from '../src/ast.js';
+import { render, parse } from '../src/lesson2/ast.js';
 
 describe('HtmlBuilder', () => {
   it('set 1', () => {

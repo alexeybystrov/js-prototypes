@@ -1,4 +1,4 @@
-import buildHtml from '../src/htmlBuilder.js';
+import buildHtml from '../src/lesson1/htmlBuilder.js';
 
 describe('HtmlBuilder', () => {
   it('set 1', () => {
